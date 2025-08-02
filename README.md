@@ -9,6 +9,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/purvikapadia59?label=Followers&style=for-the-badge&logo=github&color=blue" alt="GitHub Followers">
+</p>
+
 ---
 
 ### 👀 Visitor Count
