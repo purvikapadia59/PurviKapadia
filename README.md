@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Visitors-<VISITOR_COUNT>-blue?style=for-the-badge&logo=github" alt="Visitor Count">
+  <img src="https://komarev.com/ghpvc/?username=purvikapadia59&style=flat-square&color=blue" alt="Visitor Count" style="transform: scale(1.5);">
 </p>
 
 ---
