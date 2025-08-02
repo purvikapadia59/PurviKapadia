@@ -65,11 +65,11 @@ MySQL, SQLite
 
 ## 📊 GitHub Stats
 
-![Purvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=purvikapadia&show_icons=true&theme=radical)
+![Purvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=purvikapadia59&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purvikapadia&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purvikapadia59&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=purvikapadia&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=purvikapadia59&theme=radical)](https://git.io/streak-stats)
 
 ---
 
