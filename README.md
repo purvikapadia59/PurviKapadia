@@ -15,7 +15,6 @@
 
 ---
 
-<h2 align="center">👀 Visitor Count</h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=purvikapadia59&style=flat-square&color=blue" alt="Visitor Count">
 </p>
