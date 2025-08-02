@@ -13,10 +13,8 @@
   <img src="https://img.shields.io/github/followers/purvikapadia59?label=Followers&style=for-the-badge&logo=github&color=blue" alt="GitHub Followers">
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=purvikapadia59&style=flat-square&color=blue" alt="Visitor Count">
+  <img src="https://img.shields.io/badge/Visitors-<VISITOR_COUNT>-blue?style=for-the-badge&logo=github" alt="Visitor Count">
 </p>
 
 ---
