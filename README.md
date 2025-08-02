@@ -76,7 +76,6 @@ MySQL, SQLite
 ### ✨ Freelance and Blogs
 
 📢 *Available for freelance work*
-
 📝 *Coming soon: My tech blogs*  
 
 ---
