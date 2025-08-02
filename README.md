@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/purvikapadia59" target="_blank">
-    <img src="https://img.shields.io/github/followers/purvikapadia59?label=Follow%20me%20on%20GitHub&style=social" alt="GitHub Follow Badge" style="transform: scale(1.5);">
+    <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me on GitHub">
   </a>
 </p>
 
