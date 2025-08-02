@@ -5,7 +5,7 @@
 
 ### 👀 Visitor Count
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=purvikapadia&style=flat-square&color=blue)
+![Visitor Badge](https://komarev.com/ghpvc/?username=purvikapadia59&style=flat-square&color=blue)
 
 ---
 
