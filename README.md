@@ -3,6 +3,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/purvikapadia59" target="_blank">
+    <img src="https://img.shields.io/github/followers/purvikapadia59?label=Follow%20me%20on%20GitHub&style=social" alt="GitHub Follow Badge">
+  </a>
+</p>
+
+---
+
 ### 👀 Visitor Count
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=purvikapadia59&style=flat-square&color=blue)
