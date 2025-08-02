@@ -15,10 +15,11 @@
 
 ---
 
-### 👀 Visitor Count
+<h3 align="center">👀 Visitor Count</h3>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=purvikapadia59&style=flat-square&color=blue)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=purvikapadia59&style=flat-square&color=blue" alt="Visitor Count">
+</p>
 ---
 
 ### 💡 About Me
