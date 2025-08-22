@@ -56,16 +56,6 @@ MySQL, SQLite
 
 ---
 
-### 🚀 Featured Projects
-
-📌 **KisanKonect**  
-🗓️ *Jan – Mar 2024*  
-💡 Developed an ML/DL-powered Python web application that provides intelligent **crop, fertilizer, and disease recommendations** tailored to farmers’ needs.  
-🌿 Integrated **soil testing lab data**, **government schemes**, and a **crop marketplace**, enabling data-driven decisions and improved agricultural productivity.  
-🚀 Designed with a **user-friendly interface** to ensure accessibility for rural farmers and promote smart, sustainable farming practices.
-
----
-
 ## 📊 GitHub Stats
 
 ![Purvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=purvikapadia59&show_icons=true&theme=radical)
