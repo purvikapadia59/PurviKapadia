@@ -2,13 +2,6 @@
 <h3 align="center">Crafting Smart Solutions with Code, Data & AI | B.E Computer Engineering</h3>
 
 ---
-
-<p align="center">
-  <a href="https://github.com/purvikapadia59" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me on GitHub">
-  </a>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/purvikapadia59?label=Followers&style=for-the-badge&logo=github&color=blue" alt="GitHub Followers">
 </p>
